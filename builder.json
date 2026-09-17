@@ -16,5 +16,10 @@
   },
   "reactNative": {},
   "kmp": {},
-  "mobai": {}
+  "mobai": {},
+  "profiles": {
+    "store": {
+      "distribution": "store"
+    }
+  }
 }
