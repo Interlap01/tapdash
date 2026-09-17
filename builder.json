@@ -9,7 +9,10 @@
   "codemagic": {},
   "bitrise": {},
   "ios": {
-    "bundleId": "run.mobai.tapdash"
+    "bundleId": "run.mobai.tapdash",
+    "extensions": [
+      "run.mobai.tapdash.widget"
+    ]
   },
   "flutter": {
     "watch": {}
@@ -17,6 +20,9 @@
   "reactNative": {},
   "kmp": {},
   "mobai": {},
+  "signing": {
+    "dir": "/Users/dzmitryihilimovich/signing/tapdash"
+  },
   "profiles": {
     "store": {
       "distribution": "store"
