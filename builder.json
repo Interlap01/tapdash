@@ -1,0 +1,20 @@
+{
+  "project": "TapDash",
+  "platform": "ios",
+  "github": {
+    "owner": "Interlap01",
+    "repo": "tapdash"
+  },
+  "provider": "github",
+  "codemagic": {},
+  "bitrise": {},
+  "ios": {
+    "bundleId": "run.mobai.tapdash"
+  },
+  "flutter": {
+    "watch": {}
+  },
+  "reactNative": {},
+  "kmp": {},
+  "mobai": {}
+}
