@@ -1,0 +1,9 @@
+TapDash.xcodeproj/
+build/
+DerivedData/
+dist/
+*.ipa
+ios-signing*.key
+ios-signing*.p12
+*.mobileprovision
+.DS_Store
